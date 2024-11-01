@@ -30,6 +30,9 @@ requests
 flask
 flask-cors
 
+#py testing 
+pytest
+
 # For frontend (React) development
 # react
 # react-dom
