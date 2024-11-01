@@ -1,0 +1,44 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Time series analysis
+statsmodels
+pmdarima
+
+# Machine learning models
+scikit-learn
+xgboost
+
+# Deep learning (for LSTM and other advanced models)
+tensorflow
+keras
+
+# Natural language processing (in case of sentiment analysis)
+nltk
+textblob
+
+# API requests
+requests
+
+# Web framework for dashboard
+flask
+flask-cors
+
+#py testing 
+pytest
+
+# For frontend (React) development
+# react
+# react-dom
+# recharts
+# react-chartjs-2
+# d3
+
+
+ 
