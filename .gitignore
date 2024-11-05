@@ -11,10 +11,10 @@ env/
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints
 
-# Ignore data files (unless you want to track them)
-data/raw/
-data/processed/
-data/external/
+# # Ignore data files (unless you want to track them)
+# data/raw/
+# data/processed/
+# data/external/
 
 # Ignore config files
 config/*.yaml
